@@ -71,9 +71,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00c9ff&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center"><i>"The goal is to turn data into information, and informatio
+>
