@@ -4,10 +4,6 @@
   <em>AI & Machine Learning Engineer · Data Scientist · Student @ Helwan University</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+Explorer;Faculty+of+Computers+%26+AI+%7C+Helwan+University" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -16,16 +12,10 @@
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 📊 I love turning raw data into meaningful insights
 - 🧠 Always learning and exploring new algorithms and models
-- 🚀 Currently building skills in deep learning, data analysis, and AI-driven solutions
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI / ML / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -34,6 +24,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -67,26 +59,14 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 📐 Advanced Deep Learning architectures
-- 🤗 Hugging Face & Large Language Models (LLMs)
-- ☁️ MLOps & model deployment
-- 📦 Building end-to-end ML pipelines
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/amr-salah-shaheen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:amrsalah1762005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
@@ -96,4 +76,4 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00c9ff&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="center"><i>"The goal is to turn data into information, and information into insight." – Carly Fiorina</i></p>
+<p align="center"><i>"The goal is to turn data into information, and informatio
