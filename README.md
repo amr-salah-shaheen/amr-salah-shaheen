@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amr Salah Shaheen 👋</h1>
 
 <p align="center">
-  <em>AI & Machine Learning Engineer · Data Scientist · Student @ Helwan University</em>
+  <em>AI & Machine Learning Engineer · Data Scientist
 </p>
 
 ---
