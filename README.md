@@ -8,7 +8,7 @@
 
 ## About Me
 
-- **Computer Science student** at the **Faculty of Computers and Artificial Intelligence**, Helwan University
+- Student at the **Faculty of Computers and Artificial Intelligence**, Helwan University
 - Hands-on experience building and deploying **end-to-end Machine Learning projects** — regression, classification, clustering, and association rule mining
 - Experienced in **Deep Learning**, from designing and training Artificial Neural Networks (ANNs) to evaluating them
 - Skilled across the full pipeline: data cleaning, EDA, feature engineering, model evaluation, and hyperparameter tuning
